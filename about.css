@@ -1,0 +1,46 @@
+#about {
+	height:auto;
+	margin:0 auto;
+	padding:0 0 20px;
+	width:761px;
+}
+#about h1{
+	border-bottom:1px dashed #999;
+	font-size:1.8em;
+	padding:10px 0 0;
+}
+
+#about input, select, .input {
+	padding: 2.5px;
+	font-weight: bold;
+	font-size: 1em;
+	color: #008040;
+	background: #FFFFFF;
+	border:1px dotted #004080;
+}
+
+.img_kids_about{
+	padding: 5px;
+	top:80px;
+	margin left: 80px;
+	float: left;
+	height: 220px;
+	width:350px;
+}
+
+.img_family_about{
+	padding: 2px;
+	margin left: 80px;
+	height: 265px;
+	width:170px;
+	float: right;;
+	
+}
+
+#panel
+{
+	height:auto;
+	margin:0 auto;
+	padding:0 0 20px;
+	width:751px;
+}
